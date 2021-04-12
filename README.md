@@ -1,4 +1,5 @@
-### =wk.song, currently in RIDI
+### =wk.song, runnie0427 in BOJ
+- 🔭 I’m currently working on RIDI
 
 <!--
 **riyuna/riyuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
