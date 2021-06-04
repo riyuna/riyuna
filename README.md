@@ -1,5 +1,6 @@
-### =wk.song, runnie0427 in BOJ
+### Hello!
 - 🔭 I’m currently working on RIDI
+- 🌱 I’m currently learning Spark, Pyspark, Airflow, and so on
 
 <!--
 **riyuna/riyuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
