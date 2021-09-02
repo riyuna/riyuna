@@ -1,5 +1,4 @@
 ### Hello!
-- 🔭 I’m currently working on RIDI
 - 🌱 I’m currently learning Spark, Pyspark, Airflow, and so on
 
 <!--
