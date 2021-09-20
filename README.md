@@ -1,5 +1,6 @@
 ### Hello!
 - 🌱 I’m currently learning Spark, Pyspark, Airflow, and so on
+- 📫 How to reach me: riyuna0427@gmail.com
 
 <!--
 **riyuna/riyuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
