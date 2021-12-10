@@ -1,5 +1,5 @@
 ### Hello!
-- 🌱 I’m currently learning Spark, Pyspark, Airflow, and so on
+- 🌱 I’m currently learning Spark, and so on. Also learning algorithms for competitive programming.
 - 📫 How to reach me: riyuna0427@gmail.com
 - BOJ: https://boj.kr/runnie0427
 
