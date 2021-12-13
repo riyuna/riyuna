@@ -1,7 +1,8 @@
 ### Hello!
-- 🌱 I’m currently learning Spark, and so on. Also learning algorithms for competitive programming.
+- 🌱 I’m currently learning algorithms for competitive programming.
 - 📫 How to reach me: riyuna0427@gmail.com
 - BOJ: https://boj.kr/runnie0427
+- codeforces: http://codeforces.com/profile/runnie
 
 <!--
 **riyuna/riyuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
