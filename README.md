@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning algorithms for competitive programming.
 - 📫 How to reach me: eunha.stardust@gmail.com
 - BOJ: https://boj.kr/runnie0427
-- codeforces: http://codeforces.com/profile/runnie
+- codeforces: http://codeforces.com/profile/Eunha
 
 <!--
 **riyuna/riyuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
