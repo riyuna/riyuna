@@ -3,6 +3,7 @@
 - 📫 How to reach me: eunha.stardust@gmail.com
 - BOJ: https://boj.kr/runnie0427
 - codeforces: http://codeforces.com/profile/Eunha
+- other blog: http://riyuna.tistory.com/
 
 <!--
 **riyuna/riyuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
